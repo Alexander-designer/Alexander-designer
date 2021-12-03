@@ -1,18 +1,4 @@
-
-
-
-
-
-
-Check it out later...
-
-- 👋 Hi, I’m @Alexander-designer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Alexander-designer/Alexander-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an engineer with a lot of experience as a designer. 
+But lately I got carried away with programming in python. 
+I study python, write programs that I post here.
+More details about me in my profile on LinkedIn: https://www.linkedin.com/in/alexander-kozlov-8026352b/
